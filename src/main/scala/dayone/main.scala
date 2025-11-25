@@ -1,5 +1,6 @@
-import util.Util
+package dayone
 
+import util.Util
 
 @main
 def main(): Unit = {

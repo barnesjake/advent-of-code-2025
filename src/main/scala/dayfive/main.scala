@@ -1,5 +1,6 @@
-import util.Util
+package dayfive
 
+import util.Util
 
 @main
 def main(): Unit = {
