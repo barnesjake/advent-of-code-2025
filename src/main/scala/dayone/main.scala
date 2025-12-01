@@ -22,8 +22,6 @@ private def lineToRotation(inputString: String): Rotation = {
   Rotation(direction, count)
 }
 
-private def maybeAddToTotal(position: Int): Boolean = position % 100 == 0
-
 private def operation(point: Int, rotation: Rotation): (Int, Int) = {
   var tmpPoint = point
   var tmpAcc = 0
