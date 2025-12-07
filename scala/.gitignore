@@ -46,3 +46,7 @@ build/
 ### Scala ###
 .bsp/
 */src/*.txt
+
+### Metals ###
+.metals/
+.bloop/
